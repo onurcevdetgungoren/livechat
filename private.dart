@@ -1,7 +1,5 @@
 
 	
-	//	Plandigit	|	Powered by GTS 
-	//						   
-	//				     2021 
+	//	LiveChat Copyright 2021 Onur Cevdet Güngören 
 
 
