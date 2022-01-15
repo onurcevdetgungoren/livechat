@@ -1,5 +1,5 @@
 
 	
-	//	LiveChat Copyright 2021 Onur Cevdet Güngören 
+	//	LiveChat Copyright (c) 2022 onur-cevdet-güngören
 
 
