@@ -1,5 +1,5 @@
 # LiveChat
-Live chat is a real time chat application made using the following firebase services
+Live chat is a real time chat application made with the following firebase services
 
 * firebase_core (for services)
 * firebase_auth (for authentication)
